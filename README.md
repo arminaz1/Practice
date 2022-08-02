@@ -1,1 +1,8 @@
-#C_course
+
+# C_Programmin   
+
+these are folder of examples that is solved during C course
+
+## Subheader
+
+each folder is for one practice k k
