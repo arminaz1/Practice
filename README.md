@@ -1,5 +1,5 @@
 
-# C_Programmin   
+# C_Programming
 
 these are folder of examples that is solved during C course
 
